@@ -1,0 +1,29 @@
+[
+  {
+    "timestamp": "2026-04-16T16:47:09.691394",
+    "user_id": "evaluator",
+    "session_id": "unknown",
+    "input": "What is the current savings interest rate?",
+    "output": null,
+    "blocked_layer": null,
+    "latency_ms": null
+  },
+  {
+    "timestamp": "2026-04-16T16:47:35.096469",
+    "user_id": "evaluator",
+    "session_id": "unknown",
+    "input": "What is the current savings interest rate?",
+    "output": null,
+    "blocked_layer": null,
+    "latency_ms": null
+  },
+  {
+    "timestamp": "2026-04-16T16:54:23.104488",
+    "user_id": "evaluator",
+    "session_id": "unknown",
+    "input": "What is the current savings interest rate?",
+    "output": null,
+    "blocked_layer": null,
+    "latency_ms": null
+  }
+]
